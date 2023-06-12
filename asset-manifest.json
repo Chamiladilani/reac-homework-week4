@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chamiladilani/reac.git/static/css/main.5b49f651.css",
+    "main.js": "/Chamiladilani/reac.git/static/js/main.c4e9aaba.js",
+    "static/js/787.d3428903.chunk.js": "/Chamiladilani/reac.git/static/js/787.d3428903.chunk.js",
+    "index.html": "/Chamiladilani/reac.git/index.html",
+    "main.5b49f651.css.map": "/Chamiladilani/reac.git/static/css/main.5b49f651.css.map",
+    "main.c4e9aaba.js.map": "/Chamiladilani/reac.git/static/js/main.c4e9aaba.js.map",
+    "787.d3428903.chunk.js.map": "/Chamiladilani/reac.git/static/js/787.d3428903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b49f651.css",
+    "static/js/main.c4e9aaba.js"
+  ]
+}
